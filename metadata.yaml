@@ -1,0 +1,47 @@
+_repo: The-old-town_69399
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Benda, Wladyslaw T. (Wladyslaw Theodore)
+    aliases:
+    - Benda, W. T.
+    - Benda, Wladyslaw Theodore
+    - Benda, W. (Wladyslaw)
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '36188'
+    url: http://www.gutenberg.org/2009/agents/36188
+    wikipedia: https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_T._Benda
+creator:
+  author:
+    agent_name: Riis, Jacob A. (Jacob August)
+    alias: Riis, Jacob August
+    birthdate: 1849
+    deathdate: 1914
+    gutenberg_agent_id: '1960'
+    url: http://www.gutenberg.org/2009/agents/1960
+    wikipedia: https://en.wikipedia.org/wiki/Jacob_Riis
+description: ''
+gutenberg_issued: '2022-11-21'
+identifiers:
+  gutenberg: '69399'
+  lccn: 09027120
+language: en
+pgterms:marc904: https://archive.org/details/oldtown00riis/page/n7/mode/2up
+pgterms:marc905: 20200731120534riis
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Krista Zaleski, Jude Eylander and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: The Macmillan Company,1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ribe (Denmark)'
+- !lcsh 'Denmark -- Social life and customs'
+- !lcc 'DL'
+- GITenberg
+title: The old town
+url: http://www.gutenberg.org/ebooks/69399
