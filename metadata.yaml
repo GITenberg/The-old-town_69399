@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '36188'
     url: http://www.gutenberg.org/2009/agents/36188
     wikipedia: https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_T._Benda
+covers:
+- cover_type: archival
+  image_path: 69399-h/images/cover.jpg
 creator:
   author:
     agent_name: Riis, Jacob A. (Jacob August)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1960
     wikipedia: https://en.wikipedia.org/wiki/Jacob_Riis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69399#The-old-town
 gutenberg_issued: '2022-11-21'
 identifiers:
   gutenberg: '69399'
